@@ -2119,7 +2119,7 @@ defun
 
 
 #Diccionario de municipios
-dmun = pd.read_csv('dmun.csv', low_memory=False, encoding='latin1')
+dmun = pd.read_csv('diccionarios/dmun.csv', low_memory=False, encoding='latin1')
 dmun
 
 
