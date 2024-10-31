@@ -1,0 +1,105 @@
+CVE,DESCRIP
+1,Ciertas  enfermedades infecciosas  y parasitarias
+2,Cólera
+3,Diarrea y gastroenteritis de presunto origen infeccioso
+4,Otras enfermedades infecciosas intestinales
+5,Tuberculosis respiratoria
+6,Otras tuberculosis
+7,Peste
+8,Tétanos
+9,Difteria
+10,Tos ferina
+11,Infección meningocócica
+12,Septicemia
+13,Infecciones  con  un modo de  transmisión  predominantemente sexual
+14,Poliomielitis aguda
+15,Rabia
+16,Fiebre amarilla
+17,Otras fiebres virales transmitidas por artrópodos y fiebres hemorrágicas virales
+18,Sarampión
+19,Hepatitis viral
+20,Enfermedad por virus de la inmunodeficiencia humana (VIH)
+21,Paludismo (malaria)
+22,Leishmaniasis
+23,Tripanosomiasis
+24,Esquistosomiasis
+25,Resto de ciertas enfermedades infecciosas y parasitarias
+26,Tumores (neoplasias)
+27,"Tumores malignos del labio, de la cavidad bucal y de la faringe"
+28,Tumor maligno del esófago
+29,Tumor maligno del estómago
+30,"Tumor maligno del colon, del recto y del ano"
+31,Tumor maligno del hígado y  de las vías biliares intrahepáticas
+32,Tumor maligno del páncreas
+33,Tumor maligno de la laringe
+34,"Tumor maligno de la tráquea, de los bronquios y del pulmón"
+35,Melanoma maligno de la piel
+36,Tumor maligno de la mama
+37,Tumor maligno del cuello del útero
+38,Tumor maligno de otras partes  y de las no especificadas del útero
+39,Tumor maligno del ovario
+40,Tumor maligno de la próstata
+41,Tumor maligno de la vejiga urinaria
+42,"Tumor maligno de las meninges, del encéfalo y de otras partes del sistema nervioso central"
+43,Linfoma no Hodgkin
+44,Mieloma múltiple y tumores malignos de células plasmáticas
+45,Leucemia
+46,Resto de tumores malignos
+47,Resto de tumores
+48,"Enfermedades de la sangre y del los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad"
+49,Anemias
+50,"Resto  de enfermedades de la sangre y de los órganos   hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad"
+51,"Enfermedades endocrinas, nutricionales y metabólicas"
+52,Diabetes mellitus
+53,Desnutrición
+54,"Resto de enfermedades endocrinas, nutricionales y metabólicas"
+55,Trastornos mentales y del comportamiento
+56,Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas
+57,Resto  de trastornos mentales y del comportamiento
+58,Enfermedades del sistema nervioso
+59,Meningitis
+60,Enfermedad de Alzheimer
+61,Resto de enfermedades del sistema nervioso
+62,Enfermedades del ojo y sus anexos
+63,Enfermedades del oído y de la apófisis mastoides
+64,Enfermedades del sistema circulatorio
+65,Fiebre reumática aguda y enfermedades cardíacas reumáticas crónicas
+66,Enfermedades hipertensivas
+67,Enfermedades isquémicas del corazón
+68,Otras enfermedades del corazón
+69,Enfermedades cerebrovasculares
+70,Aterosclerosis
+71,Resto de enfermedades del sistema circulatorio
+72,Enfermedades del sistema respiratorio
+73,Influenza (gripe)
+74,Neumonía
+75,Otras infecciones agudas de las vías respiratorias inferiores
+76,Enfermedades  crónicas de las  vías   respiratorias inferiores
+77,Resto de enfermedades del sistema respiratorio
+78,Enfermedades del sistema digestivo
+79,Úlcera gástrica y duodenal
+80,Enfermedades del hígado
+81,Resto de enfermedades del sistema digestivo
+82,Enfermedades de la piel y del tejido subcutáneo
+83,Enfermedades del sistema osteomuscular y del tejido conjuntivo
+84,Enfermedades del sistema genitourinario
+85,"Enfermedades renales, glomerulares y tubulointersticiales"
+86,Resto de enfermedades del sistema genitourinario
+87,"Embarazo, parto y puerperio"
+88,Embarazo terminado en aborto
+89,Otras muertes obstétricas directas
+90,Muertes obstétricas indirectas
+91,"Resto de embarazo, parto y puerperio"
+92,Ciertas afecciones originadas en el período perinatal
+93,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+94,"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte"
+95,Causas externas de morbilidad y de mortalidad
+96,Accidentes de transporte
+97,Caídas
+98,Ahogamiento y sumersión accidentales
+99,"Exposición al humo, fuego y llamas"
+100,"Envenenamiento accidental por, y exposición a sustancias nocivas"
+101,Lesiones autoinfligidas intencionalmente
+102,Agresiones
+103,Todas las  demás causas externas
+902,"Enfermedad por el virus del Zika, sin especificación"

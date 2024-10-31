@@ -1,0 +1,13 @@
+CVE,DESCRIP
+1,Sin escolaridad
+2,Preescolar
+3,Primaria incompleta
+4,Primaria completa
+5,Secundaria incompleta
+6,Secundaria completa
+7,Bachillerato o preparatoria incompleto
+8,Bachillerato o preparatoria completo
+9,Profesional
+10,Posgrado
+88,No aplica a menores de 3 años
+99,No especificado

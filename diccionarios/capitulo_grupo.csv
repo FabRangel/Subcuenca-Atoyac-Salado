@@ -1,0 +1,251 @@
+CAP,GPO,DESCRIP
+1,,Ciertas enfermedades infecciosas y parasitarias
+1,1,Enfermedades infecciosas intestinales (A00-A09)
+1,2,Tuberculosis  (A15-A19)
+1,3,Ciertas zoonosis bacterianas (A20-A28)
+1,4,Otras enfermedades bacterianas (A30-A49)
+1,5,Infecciones con modo de transmisión predominantemente sexual (A50-A64)
+1,6,Otras enfermedades debidas a espiroquetas (A65-A69)
+1,7,Otras enfermedades causadas por clamidias (A70-A74)
+1,8,Rickettsiosis (A75-A79)
+1,9,Infecciones virales del sistema nervioso central (A80-A89)
+1,10,Fiebres virales transmitidas por artrópodos y fiebres virales hemorrágicas (A90-A99)
+1,11,Infecciones virales caracterizadas por lesiones de la piel y de las membranas mucosas (B00-B09)
+1,12,Hepatitis viral (B15-B19)
+1,13,Enfermedad por virus de la inmunodeficiencia humana (VIH) (B20-B24)
+1,14,Otras enfermedades virales (B25-B34)
+1,15,Micosis (B35-B49)
+1,16,Enfermedades debidas a protozoarios (B50-B64)
+1,17,Helmintiasis (B65-B83)
+1,18,"Pediculosis, acariasis y otras infestaciones (B85-B89)"
+1,19,Secuelas de enfermedades infecciosas y parasitarias (B90-B94)
+1,20,"Bacterias, virus y otros agentes infecciosos (B95-B98)"
+1,21,Otras enfermedades infecciosas (B99)
+2,,Tumores (neoplasias)
+2,1,"Tumores malignos del labio, de la cavidad bucal y de la faringe (C00-C14)"
+2,2,Tumores malignos de los órganos digestivos (C15-C26)
+2,3,Tumores malignos de los órganos respiratorios e intratorácicos (C30-C39)
+2,4,Tumores malignos de los huesos y de los cartílagos articulares (C40-C41)
+2,5,Melanoma y otros tumores malignos de la piel (C43-C44)
+2,6,Tumores malignos de los tejidos mesoteliales y de los tejidos blandos (C45-C49)
+2,7,Tumor maligno de la mama (C50)
+2,8,Tumores malignos de los órganos genitales femeninos (C51-C58)
+2,9,Tumores malignos de los órganos genitales masculinos (C60-C63)
+2,10,Tumores malignos de las vías urinarias (C64-C68)
+2,11,"Tumores malignos del ojo, del encéfalo y de otras partes del sistema nervioso central (C69-C72)"
+2,12,Tumores malignos de la glándula tiroides y de otras glándulas endocrinas (C73-C75)
+2,13,"Tumores (neoplasias) malignos de sitios mal definidos, secundarios y de sitios no especificados (C76-C80)"
+2,14,"Tumores (neoplasias) malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines (C81-C96)"
+2,15,Tumores (neoplasias) malignos (primarios) de sitios múltiples independientes (C97)
+2,16,Tumores (neoplasias) in situ (D00-D09)
+2,17,Tumores (neoplasias) benignos (D10-D36)
+2,18,Tumores (neoplasias) de comportamiento incierto o desconocido (D37-D48)
+3,,"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad"
+3,1,Anemias nutricionales (D50-D53)
+3,2,Anemias hemolíticas (D55-D59)
+3,3,Anemias aplásticas y otras anemias (D60-D64)
+3,4,"Defectos de la coagulación, púrpura y otras afecciones hemorrágicas (D65-D69)"
+3,5,Otras enfermedades de la sangre y de los órganos hematopoyéticos (D70-D77)
+3,6,Ciertos trastornos que afectan el mecanismo de la inmunidad (D80-D89)
+4,,"Enfermedades endocrinas, nutricionales y metabólicas"
+4,1,Trastornos de la glándula tiroides (E00-E07)
+4,2,Diabetes mellitus (E10-E14)
+4,3,Otros trastornos de la regulación de la glucosa y de la secreción interna del páncreas (E15-E16)
+4,4,Trastornos de otras glándulas endocrinas (E20-E35)
+4,5,Desnutrición (E40-E46)
+4,6,Otras deficiencias nutricionales (E50-E64)
+4,7,Obesidad y otros tipos de hiperalimentación (E65-E68)
+4,8,Trastornos metabólicos (E70-E90)
+5,,Trastornos mentales y del comportamiento
+5,1,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos (F00-F09)"
+5,2,Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19)
+5,3,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes (F20-F29)"
+5,4,Trastornos del  humor (afectivos) (F30-F39)
+5,5,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48)"
+5,6,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos (F50-F59)
+5,7,Trastornos de la personalidad y del comportamiento en adultos (F60-F69)
+5,8,Retraso mental (F70-F79)
+5,9,Trastornos del desarrollo psicológico (F80-F89)
+5,10,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez y en la adolescencia (F90-F98)
+5,11,Trastorno mental no  especificado (F99)
+6,,Enfermedades del sistema nervioso
+6,1,Enfermedades inflamatorias del sistema nervioso central (G00-G09)
+6,2,Atrofias sistémicas que afectan principalmente el sistema nervioso central (G10-G14)
+6,3,Trastornos extrapiramidales y del movimiento (G20-G26)
+6,4,Otras enfermedades degenerativas del sistema nervioso (G30-G32)
+6,5,Enfermedades desmielinizantes del sistema nervioso central (G35-G37)
+6,6,Trastornos episódicos y paroxísticos (G40-G47)
+6,7,"Trastornos de  los nervios, de las raíces y de los plexos nerviosos (G50-G59)"
+6,8,Polineuropatías y otros trastornos del sistema nervioso periférico (G60-G64)
+6,9,Enfermedades musculares y de la unión neuromuscular (G70-G73)
+6,10,Parálisis cerebral y otros síndromes paralíticos (G80-G83)
+6,11,Otros trastornos del sistema nervioso (G90-G99)
+7,,Enfermedades del ojo y sus anexos
+7,1,"Trastornos del párpado, aparato lagrimal y órbita (H00-H06)"
+7,2,Trastornos de la conjuntiva (H10-H13)
+7,3,"Trastornos de la esclerótica, córnea, iris y cuerpo ciliar (H15-H22)"
+7,4,Trastornos del cristalino (H25-H28)
+7,5,Trastornos de la coroides y de la retina (H30-H36)
+7,6,Glaucoma (H40-H42)
+7,7,Trastornos del cuerpo vítreo y del globo ocular (H43-H45)
+7,8,Trastornos del nervio óptico y de las vías ópticas (H46-H48)
+7,9,"Trastornos de los músculos oculares, del movimiento binocular, de la acomodación y de la refracción (H49-H52)"
+7,10,Alteraciones de la visión y ceguera (H53-H54)
+7,11,Otros trastornos del ojo y sus anexos (H55-H59)
+8,,Enfermedades del oído y de la apófisis mastoides
+8,1,Enfermedades del oído externo (H60-H62)
+8,2,Enfermedades del oído medio y de la mastoides (H65-H75)
+8,3,Enfermedades del oído interno (H80-H83)
+8,4,Otros trastornos del oído (H90-H95)
+9,,Enfermedades del sistema circulatorio
+9,1,Fiebre reumática aguda (I00-I02)
+9,2,Enfermedades cardíacas reumáticas crónicas (I05-I09)
+9,3,Enfermedades hipertensivas (I10-I15)
+9,4,Enfermedades isquémicas del corazón (I20-I25)
+9,5,Enfermedad cardiopulmonar y enfermedades de la circulación pulmonar (I26-I28)
+9,6,Otras formas de enfermedad del corazón (I30-I52)
+9,7,Enfermedades cerebrovasculares (I60-I69)
+9,8,"Enfermedades de las arterias, de las arteriolas y de los vasos capilares (I70-I79)"
+9,9,"Enfermedades de las venas y de los vasos y ganglios linfáticos, no clasificadas en otra parte (I80-I89)"
+9,10,Otros trastornos y los no especificados del sistema circulatorio (I95-I99)
+10,,Enfermedades del sistema respiratorio
+10,1,Infecciones agudas de las vías respiratorias superiores (J00-J06)
+10,2,Influenza (gripe) y neumonía (J09-J18)
+10,3,Otras infecciones agudas de las vías respiratorias inferiores (J20-J22)
+10,4,Otras enfermedades de las vías respiratorias superiores (J30-J39)
+10,5,Enfermedades crónicas de las vías respiratorias inferiores (J40-J47)
+10,6,Enfermedades del pulmón debidas a agentes externos (J60-J70)
+10,7,Otras enfermedades respiratorias que afectan principalmente al intersticio  (J80-J84)
+10,8,Afecciones supurativas y necróticas de las vías respiratorias inferiores (J85-J86)
+10,9,Otras enfermedades de la pleura (J90-J94)
+10,10,Otras enfermedades del sistema respiratorio (J95-J99)
+11,,Enfermedades del sistema digestivo
+11,1,"Enfermedades de la cavidad bucal, de las glándulas salivales y de los maxilares (K00-K14)"
+11,2,"Enfermedades del esófago, del estómago y del duodeno (K20-K31)"
+11,3,Enfermedades del apéndice (K35-K38)
+11,4,Hernia (K40-K46)
+11,5,Enteritis y colitis no infecciosas (K50-K52)
+11,6,Otras enfermedades de los intestinos (K55-K64)
+11,7,Enfermedades del peritoneo (K65-K67)
+11,8,Enfermedades del hígado (K70-K77)
+11,9,"Trastornos de la vesícula biliar, de las vías biliares y del páncreas (K80-K87)"
+11,10,Otras enfermedades del sistema digestivo (K90-K93)
+12,,Enfermedades de la piel y del tejido subcutáneo
+12,1,Infecciones de la piel y del tejido subcutáneo (L00-L08)
+12,2,Trastornos flictenulares (L10-L14)
+12,3,Dermatitis y eczema (L20-L30)
+12,4,Trastornos papuloescamosos (L40-L45)
+12,5,Urticaria y eritema (L50-L54)
+12,6,Trastornos de la piel y del tejido subcutáneo relacionados con radiación (L55-L59)
+12,7,Trastornos de las faneras (L60-L75)
+12,8,Otros trastornos de la piel y del tejido subcutáneo (L80-L99)
+13,,Enfermedades del sistema osteomuscular y del tejido conjuntivo
+13,1,Artropatías infecciosas (M00-M03)
+13,2,Poliartropatías inflamatorias (M05-M14)
+13,3,Artrosis (M15-M19)
+13,4,Otros trastornos articulares (M20-M25)
+13,5,Trastornos sistémicos del tejido conjuntivo (M30-M36)
+13,6,Dorsopatías deformantes (M40-M43)
+13,7,Espondilopatías (M45-M49)
+13,8,Otras dorsopatías (M50-M54)
+13,9,Trastornos de los músculos (M60-M63)
+13,10,Trastornos de los tendones y de la sinovia (M65-M68)
+13,11,Otros trastornos de los tejidos blandos (M70-M79)
+13,12,Trastornos de la densidad y de la estructura óseas (M80-M85)
+13,13,Otras osteopatías (M86-M90)
+13,14,Condropatías (M91-M94)
+13,15,Otros trastornos del sistema osteomuscular y del tejido conjuntivo (M95-M99)
+14,,Enfermedades del sistema genitourinario
+14,1,Enfermedades glomerulares (N00-N08)
+14,2,Enfermedad renal tubulointersticial (N10-N16)
+14,3,Insuficiencia renal (N17-N19)
+14,4,Litiasis urinaria (N20-N23)
+14,5,Otros trastornos del riñón y del uréter (N25-N29)
+14,6,Otras enfermedades del sistema urinario (N30-N39)
+14,7,Enfermedades de los órganos genitales masculinos (N40-N51)
+14,8,Trastornos de la mama (N60-N64)
+14,9,Enfermedades inflamatorias de los órganos pélvicos femeninos (N70-N77)
+14,10,Trastornos no inflamatorios de los órganos genitales femeninos (N80-N98)
+14,11,Otros trastornos del sistema genitourinarios (N99)
+15,,"Embarazo, parto y puerperio"
+15,1,Embarazo terminado en aborto (O00-O08)
+15,2,"Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio (O10-O16)"
+15,3,Otros trastornos maternos relacionados principalmente con el embarazo (O20-O29)
+15,4,Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto (O30-O48)
+15,5,Complicaciones del trabajo de parto y del parto (O60-O75)
+15,7,Complicaciones principalmente relacionadas con el puerperio (O85-O92)
+15,8,Otras afecciones obstétricas no clasificadas en otra parte (O95-O99)
+16,,Ciertas afecciones originadas en el período perinatal
+16,1,"Feto y recién nacido afectados por factores maternos y por complicaciones del embarazo, del trabajo de parto y del parto (P00-P04)"
+16,2,Trastornos relacionados con la duración de la gestación y el crecimiento fetal (P05-P08)
+16,3,Traumatismo del nacimiento (P10-P15)
+16,4,Trastornos respiratorios y cardiovasculares específicos del período perinatal (P20-P29)
+16,5,Infecciones específicas del período perinatal (P35-P39)
+16,6,Trastornos hemorrágicos y hematológicos del feto y del recién nacido (P50-P61)
+16,7,Trastornos endocrinos y metabólicos transitorios específicos del feto y del recién nacido (P70-P74)
+16,8,Trastornos del sistema digestivo del feto y del recién nacido (P75-P78)
+16,9,Afecciones asociadas con la regulación tegumentaria y la temperatura del feto y del recién nacido (P80-P83)
+16,10,Otros trastornos originados en el periodo perinatal (P90-P96)
+17,,"Malformaciones  congénitas, deformidades y anomalías cromosómicas"
+17,1,Malformaciones congénitas del sistema nervioso (Q00-Q07)
+17,2,"Malformaciones congénitas del ojo, del oído, de la cara y del cuello (Q10-Q18)"
+17,3,Malformaciones congénitas del sistema circulatorio (Q20-Q28)
+17,4,Malformaciones congénitas del sistema respiratorio (Q30-Q34)
+17,5,Fisura del paladar y labio leporino (Q35-Q37)
+17,6,Otras malformaciones congénitas del sistema digestivo (Q38-Q45)
+17,7,Malformaciones congénitas de los órganos genitales (Q50-Q56)
+17,8,Malformaciones congénitas del sistema urinario (Q60-Q64)
+17,9,Malformaciones y deformidades congénitas del sistema osteomuscular (Q65-Q79)
+17,10,Otras malformaciones congénitas (Q80-Q89)
+17,11,"Anomalías cromosómicas, no clasificadas en otra parte (Q90-Q99)"
+18,,"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte"
+18,1,Síntomas y signos que involucran los sistemas circulatorio y respiratorio (R00-R09)
+18,2,Síntomas y signos que involucran el sistema digestivo y el abdomen (R10-R19)
+18,3,Síntomas y signos que involucran la piel y el tejido subcutáneo (R20-R23)
+18,4,Síntomas y signos que involucran los sistemas nervioso y osteomuscular (R25-R29)
+18,5,Síntomas y signos que involucran el sistema urinario (R30-R39)
+18,6,"Síntomas y signos que involucran el conocimiento, la percepción, el estado emocional y la conducta (R40-R46)"
+18,7,Síntomas y signos que involucran el habla y la voz (R47-R49)
+18,8,Síntomas y signos generales (R50-R69)
+18,9,"Hallazgos anormales en el examen de sangre, sin diagnóstico (R70-R79)"
+18,10,"Hallazgos anormales en el examen de orina, sin diagnóstico (R80-R82)"
+18,11,"Hallazgos anormales en el examen de otros líquidos, sustancias y tejidos corporales, sin diagnóstico (R83-R89)"
+18,12,"Hallazgos anormales en diagnóstico por imágenes y en estudios funcionales,  sin diagnóstico (R90-R94)"
+18,13,Causas de mortalidad mal definidas y desconocidas (R95-R99)
+20,,Causas externas de morbilidad y de mortalidad
+20,1,Peatón lesionado en accidente de transporte (V01-V09)
+20,2,Ciclista lesionado en accidente de transporte (V10-V19)
+20,3,Motociclista lesionado en accidente de transporte (V20-V29)
+20,4,Ocupante de vehículo de motor de tres ruedas lesionado en accidente de transporte (V30-V39)
+20,5,Ocupante de automóvil lesionado en accidente de transporte (V40-V49)
+20,6,Ocupante de camioneta o furgoneta lesionado en accidente de transporte (V50-V59)
+20,7,Ocupante de vehículo de transporte pesado lesionado en accidente de transporte (V60-V69)
+20,8,Ocupante de autobús lesionado en accidente de transporte (V70-V79)
+20,9,Otros accidentes de transporte terrestre (V80-V89)
+20,10,Accidentes de transporte por agua (V90-V94)
+20,11,Accidentes de transporte aéreo y espacial (V95-V97)
+20,12,"Otros accidentes de transporte, y los no especificados (V98-V99)"
+20,13,Caídas (W00-W19)
+20,14,Exposición a fuerzas mecánicas inanimadas (W20-W49)
+20,15,Exposición a fuerzas mecánicas animadas (W50-W64)
+20,16,Ahogamiento y sumersión accidentales (W65-W74)
+20,17,Otros accidentes que obstruyen la respiración (W75-W84)
+20,18,"Exposición a la corriente eléctrica, radiación y temperatura, y presión del aire ambientales extremas (W85-W99)"
+20,19,"Exposición al humo, fuego y llamas (X00-X09)"
+20,20,Contacto con calor y sustancias calientes (X10-X19)
+20,21,Contacto traumático con animales y plantas venenosos (X20-X29)
+20,22,Exposición a fuerzas de la naturaleza (X30 -X39)
+20,23,"Envenenamiento accidental por, y exposición a sustancias nocivas (X40-X49)"
+20,24,"Exceso de esfuerzo, viajes y privación (X50-X57)"
+20,25,Exposición accidental a otros factores y a los no especificados (X58-X59)
+20,26,Lesiones autoinfligidas intencionalmente (X60-X84)
+20,27,Agresiones (X85-Y09)
+20,28,Eventos de intención no determinada (Y10-Y34)
+20,29,Intervención legal y operaciones de guerra (Y35-Y36)
+20,30,"Drogas, medicamentos y sustancias biológicas causantes de efectos adversos en su uso terapéutico (Y40-Y59)"
+20,31,Incidentes ocurridos al paciente durante la atención médica y quirúrgica (Y60-Y69)
+20,32,Dispositivos médicos de diagnóstico y de uso terapéutico asociados con incidentes adversos (Y70-Y82)
+20,33,"Procedimientos quirúrgicos y otros procedimientos médicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento (Y34-Y84)"
+20,34,Secuelas de causas externas de morbilidad y de mortalidad (Y85-Y89)
+20,35,Factores suplementarios relacionados con causas de morbilidad y de mortalidad clasificadas  en otra parte (Y90-Y98)
+22,1,Asignación provisionaria de nuevas afecciones de etiología incierta o de uso emergente (U00-U49)
