@@ -137,6 +137,7 @@ cython_debug/
 *.db
 *.sqlite
 *.sqlite3
+datos/
 
 *:Zone.Identifier
 *:shield
